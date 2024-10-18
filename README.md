@@ -17,10 +17,7 @@ This project will specifically concentrate on YouTubers who initiated their chan
 ## Architecture & Technologies
 This architectural framework ensures a streamlined, automated, and scalable approach to handling YouTube channel data, from its extraction to transformation and final visualization.
 
-
-![youtubearchitecture (1)](https://github.com/BrightOsas/Youtube-data-pipeline/assets/98474404/02cec5cb-f0cd-46a8-9d7b-ec637a89ddb1)  
-
-    
+![image](https://github.com/user-attachments/assets/7c7355ca-37e6-4f72-8d38-6de8c8b278de)
 
 1. Docker: Containerization  
 2. Apache Airflow: Orchestration
@@ -44,32 +41,32 @@ This architectural framework ensures a streamlined, automated, and scalable appr
 * docker-compose up -d
 
 -- Airflow Dags TreeView 
-![airflow1](https://github.com/BrightOsas/Youtube-data-pipeline/assets/98474404/20afb423-411f-44bd-8747-62e826954f4c)  
+![image](https://github.com/user-attachments/assets/61977bbf-d9b6-44d0-9364-f28841948546)
 
 -- AWS Lambda Task  
 Cloudwatch logs  
-![statcdwatch](https://github.com/BrightOsas/Youtube-data-pipeline/assets/98474404/88d21c9b-e28b-4340-976b-a0a1c6006fd4)
-![snippetcloudwatch](https://github.com/BrightOsas/Youtube-data-pipeline/assets/98474404/0897952a-802e-44cc-b442-50c4396c7a18)  
+![image](https://github.com/user-attachments/assets/862a0d69-9191-4bd0-a6e1-7f1ec1704f3c)
+![image](https://github.com/user-attachments/assets/ab77ff9c-cbe2-4e87-bc3a-eee6dcebd948)
 
 -- DBT Jobs  
 Lineage graph
-![dbt4](https://github.com/BrightOsas/Youtube-data-pipeline/assets/98474404/629c5641-130e-4e51-ab07-9d04984ffa61)  
+![image](https://github.com/user-attachments/assets/a7db8a41-ac4e-49f0-8a0f-ff6958ed9dcf)
 
 DBT Scheduler
-![dbt2](https://github.com/BrightOsas/Youtube-data-pipeline/assets/98474404/13e59071-9ca7-420f-930e-235dc9e01f3d)  
+![image](https://github.com/user-attachments/assets/a8dc88bd-2a8f-4801-892b-69af76080014)
 
 DBT Documentation
-![dbt5](https://github.com/BrightOsas/Youtube-data-pipeline/assets/98474404/18876cea-0249-4410-bfeb-233a8a4bd79d)
+![image](https://github.com/user-attachments/assets/6d6bb5ee-51c9-46c2-a257-62b5feb9e46c)
 
  
 ## Result
-[Link To Dashboard](https://lookerstudio.google.com/reporting/bebf032d-2c91-440c-bbb5-b2b7b1950cc5)  
+![image](https://github.com/user-attachments/assets/6bda66f0-cbd4-48c3-b9c2-5f61bfb84d4e)
 
   
-![ytdb](https://github.com/BrightOsas/Youtube-data-pipeline/assets/98474404/d5d7b78d-b599-445e-9757-0cf098087bdb)
+![image](https://github.com/user-attachments/assets/7a7c6199-83a5-4760-81b6-3f41dcbfafe0)
 
 To be eligible for YouTube's Partner Program, a YouTube channel must have a minimum of 1000 subscribers and 4,000 watch hours within the preceding 12 months. Excluding the 12-month criteria, let's analyze the percentage of channels from each month with over 1,000 subscribers and 4,000 watch hours.  
-![newcrit](https://github.com/BrightOsas/Youtube-data-pipeline/assets/98474404/bb2473fa-7278-4e33-b126-cec4fbdc8dcf)
+![Uploading image.png…]()
 
 ## Requirement
 * [YouTube API Documentation](https://developers.google.com/youtube/v3/docs/)  
@@ -79,5 +76,5 @@ To be eligible for YouTube's Partner Program, a YouTube channel must have a mini
 
 
 ## contact
-* [Bright Osarenren](linkedin.com/in/brightosas)
-* [Project link](https://github.com/BrightOsas/Youtube-Data-Pipeline)
+* [Elijah Ajala](linkedin.com/in/elijahajala)
+* [Project link](https://github.com/dMagnifico/Pipeline-for-Youtube-data)
