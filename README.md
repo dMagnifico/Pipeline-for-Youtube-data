@@ -76,5 +76,5 @@ To be eligible for YouTube's Partner Program, a YouTube channel must have a mini
 
 
 ## contact
-* [Elijah Ajala](linkedin.com/in/elijahajala)
+* [Elijah Ajala](linkedin.com/in/elijah.ajala)
 * [Project link](https://github.com/dMagnifico/Pipeline-for-Youtube-data)
